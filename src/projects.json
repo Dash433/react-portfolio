@@ -1,0 +1,40 @@
+[{
+"id": 1,
+"title": "Employee Directory",
+"image": "directory.png",
+"repository": "https://github.com/Dash433/employee-directory",
+"liveLink": " https://dash433.github.io/employee-directory/",
+"description": "A Command-line application to keep track of a company where users can add, delete, and update all parts of a company."
+},
+{
+  "id": 2,
+  "title": "Project one. Farm search",
+  "image": "example.png",
+  "repository": "https://github.com/Grigore94/projectX",
+  "liveLink": "https://grigore94.github.io/projectX/",
+  "description": "This project allows someone to search and find farmers markets closest to them"
+},
+{
+  "id": 3,
+  "title": "Burger APP",
+  "image": "burger.png",
+  "repository": "https://github.com/Dash433/burgers",
+  "liveLink": "https://pure-coast-64915.herokuapp.com/",
+  "description": "This app allows you to add, devour, and delete a burger of your choice."
+},
+{
+  "id": 4,
+  "title": "Budget Tracker",
+  "image": "budget.png",
+  "repository": "https://github.com/Dash433/budgettrack",
+  "liveLink": "https://peaceful-forest-09894.herokuapp.com/",
+  "description": "This app creates a readme by command prompts in the terminal"
+},
+{
+  "id": 5,
+  "title": "Project two",
+  "image": "project2.png",
+  "repository": "https://github.com/raydphillips3/Future_Sports",
+  "liveLink": "https://project2forbootcamp.herokuapp.com/",
+  "description": "A simple app demonstatrating the use of Handlebars, you one can add burgers and 'devour' or 'regurgitate' them."
+}]
